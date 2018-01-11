@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="tv_dialog_datetime">时间选择</string>
+    <string name="dialog_content_positive">确定</string>
+    <string name="dialog_content_cancel">取消</string>
+</resources>
